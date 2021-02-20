@@ -1,1 +1,2 @@
-new f = cookie;
+var x = document.cookie;
+document.cookie = "username=variable";
